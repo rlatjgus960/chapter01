@@ -41,7 +41,7 @@ public class Ex09 {
 			System.out.println("숫자를 입력하세요");
 			int num = sc.nextInt();
 			
-			if(num==0) { //0 먼저.. 걸러주기.. 
+			if(num==0) { //0 먼저.. 걸러주기.. 알고리즘 따질때 순서 생각 잘하기
 				System.out.println("종료");
 				break;
 			}
